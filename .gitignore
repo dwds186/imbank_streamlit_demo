@@ -164,3 +164,4 @@ cython_debug/
 # .streamlit 폴더도 안 보이게끔 설정
 # dataset 폴더도 업로드가 되면 안 됨
 dataset/
+.streamlit/
